@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-id="Tontv" tvg-name="Tontv" tvg-logo="https://imgur.com/f0Soeob" group-title="BELGESEL",Tontv
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-2 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="BELGESEL",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
