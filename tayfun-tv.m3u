@@ -35,3 +35,12 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/basliksiz-3nC8dUbGZs.png" tvg-id="https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8" ,TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20231219_185321_53.png" tvg-id="CGTNDocumentary.cn" ,CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" tvg-id="Dummy" ,TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=NFd3M05KaS81VEZDUHVhczFlbkVUODAwQTJ4eUtTYUx2ZGxjY0xPQ1lrRT0=
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-id="Dummy" ,Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
