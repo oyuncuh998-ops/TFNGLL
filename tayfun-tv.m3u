@@ -23,3 +23,15 @@ https://mss.ayakkabiparti.lol/discovery/index.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="" tvg-id="Dummy" ,DISCOVERY SCIENCE
 https://mss.ayakkabiparti.lol/discs/index.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="" tvg-id="Dummy" ,VIASAT HISTORY
+https://mss.ayakkabiparti.lol/viasathistory/index.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="" tvg-id="Dummy" ,TARİH TV
+https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" tvg-id="CiftciTV.tr" ,Ciftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/basliksiz-3nC8dUbGZs.png" tvg-id="https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8" ,TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
