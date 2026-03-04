@@ -20,3 +20,6 @@ https://mss.ayakkabiparti.lol/bbc/index.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="" tvg-id="Dummy" ,DISCOVERY CHANNEL
 https://mss.ayakkabiparti.lol/discovery/index.m3u8
+
+#EXTINF:-1 group-title="BELGESEL" tvg-logo="" tvg-id="Dummy" ,DISCOVERY SCIENCE
+https://mss.ayakkabiparti.lol/discs/index.m3u8
