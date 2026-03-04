@@ -42,5 +42,4 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-id="Dummy" ,Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TRB: DMAX FHD" tvg-logo="" tvg-id2="" group-title="[01] TR- BELGESEL",TRB: DMAX
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1234
+
