@@ -33,7 +33,7 @@ https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" tvg-id="CiftciTV.tr" ,Ciftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/basliksiz-3nC8dUbGZs.png" tvg-id="https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8" ,TARIM TV
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310519663101870451/MDHidiLEInHwczzo.png" tvg-url="https://www.tarimtv.gov.tr/",Tarım TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20231219_185321_53.png" tvg-id="CGTNDocumentary.cn" ,CGTN Belgesel
