@@ -42,4 +42,5 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 group-title="BELGESEL" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" tvg-id="Dummy" ,Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="babestvhd" tvg-name="Babes TV HD" group-title="Adult",Babes TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994
