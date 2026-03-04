@@ -1,17 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Tontv" tvg-name="Tontv" tvg-logo="https://imgur.com/f0Soeob" group-title="BELGESEL",Tontv
+#EXTINF:-1 tvg-id="Tontv" tvg-name="Tontv" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="BELGESEL",Tontv
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTM3U
 
-#EXTINF:-2 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="BELGESEL",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="BELGESEL",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTM3U
 
-#EXTINF:-3 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="BELGESEL",National Geographic Wild
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="BELGESEL",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTM3U
 
-#EXTINF:-4 tvg-id="GZT" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" group-title="BELGESEL",GZT
+#EXTINF:-1 tvg-id="GZT" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" group-title="BELGESEL",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTM3U
