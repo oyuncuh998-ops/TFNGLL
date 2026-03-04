@@ -10,3 +10,8 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 
 #EXTINF:-3 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="BELGESEL",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTM3U
+
+#EXTINF:-4 tvg-id="GZT" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" group-title="BELGESEL",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTM3U
