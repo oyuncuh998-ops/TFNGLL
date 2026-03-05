@@ -281,3 +281,39 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="LEBİH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="TV Müzik",LEBİH TV
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="LIFE TV" tvg-name="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Sinema-Dizi",LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="ONS TV" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" group-title="TV Müzik",ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Play TV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Sinema-Dizi",Play TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Retro TV
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Rizetürk TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="Yerel Kanal",Rizetürk TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy",Sinemax Türk HD
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" tvg-id="Dummy",Mega Box Yerli
+http://162.212.179.33:80/gin-trn09/gt-sinevizyon-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Yerel Kanal" tvg-logo="noimage.png" tvg-id="Dummy",Siteler TV
+https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
+
+#EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" tvg-id="Dummy",Şaban TV
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+
+#EXTINF:-1 group-title="Yerel Kanal" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" tvg-id="Tivi6.tr",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="TV B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",TV B
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.dsmart.jpg" group-title="Ulusal Kanal",TV8
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/playlist.m3u8
