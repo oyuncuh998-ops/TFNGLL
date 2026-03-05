@@ -139,3 +139,35 @@ http://65.108.239.207/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="beinmoviespremierehd" tvg-name="Bein Movies Premiere HD" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png" group-title="Sinema-Dizi",Bein Movies Premiere HD
 #EXTVLCOPT:network-caching=1000
 http://65.108.239.207/bspremier1/index.m3u8
+
+#EXTINF:-1 tvg-id="beinmoviesstarshd" tvg-name="Bein Movies Stars HD" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png" group-title="Sinema-Dizi",Bein Movies Stars HD
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/bsstars/index.m3u8
+
+#EXTINF:-1 tvg-id="beinmoviesturkhd" tvg-name="Bein Movies Türk HD" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-turk-hd-buyuk2.png" group-title="Sinema-Dizi",Bein Movies Türk HD
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/bsturk/index.m3u8
+
+#EXTINF:-1 tvg-id="beinmoviesfamilyhd" tvg-name="Bein Movies Family HD" tvg-logo="https://img.logo-cdn.cc/beinmoviesfamilyhd.png" group-title="Sinema-Dizi",Bein Movies Family HD
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207:80/bsfamily/index.m3u8
+
+#EXTINF:-1 tvg-id="beinboxoffice1" tvg-name="Bein Box Office 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="Sinema-Dizi",Bein Box Office 1
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/box1/index.m3u8
+
+#EXTINF:-1 tvg-id="beinboxoffice2" tvg-name="Bein Box Office 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-2-hd-buyuk.png" group-title="Sinema-Dizi",Bein Box Office 2
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/box2/index.m3u8
+
+#EXTINF:-1 tvg-id="beinboxoffice3" tvg-name="Bein Box Office 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="Sinema-Dizi",Bein Box Office 3
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/box3/index.m3u8
+
+#EXTINF:-1 tvg-id="docubox" tvg-name="Docubox" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="Belgesel",Docubox
+#EXTVLCOPT:network-caching=1000
+https://mss.ayakkabiparti.lol/docubox/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="FX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="Sinema-Dizi",FX
+#EXTVLCOPT:network-caching=1000
+https://saran-live.ercdn.net/fx/index.m3u8
