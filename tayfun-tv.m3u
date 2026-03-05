@@ -225,10 +225,10 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Vizon Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Vizon Prime
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="Animasyon",Ates1
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates1" group-title="Animasyon",Ates1
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates2" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="Animasyon",Ates2
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates2" group-title="Animasyon",Ates2
 https://cdn.tecostream.xyz/Somine_TV.m3u8
 
 #EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" tvg-id="Dummy",SuperTürk TV
