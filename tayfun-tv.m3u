@@ -236,3 +236,48 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="TV Müzik" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" tvg-id="TRT Muzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Sar TV Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Sar TV Max
+https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Biz Sinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-biz-cinema.jpg" group-title="Sinema-Dizi",Biz Sinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Cine 6" tvg-logo="https://cine6tv.com.tr/uploads/logo/Kadir-Gecesi-3000-x-1080-piksel-3000-x-3000-piksel-Kopyas%C4%B1-200-x-200-piksel-200-x-200-piksel-1.png" group-title="Sinema-Dizi",Cine 6
+https://tv191.radyotelekom.com.tr:3614/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Belgesel" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20231219_185321_53.png" group-title="BELGESEL",CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Cine1" tvg-logo="https://www.cine1.com.tr/img/cine1loogo.png" group-title="Sinema-Dizi",Cine1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+
+#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-name="CNBC-e" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/cnbcelogo_0AAADFA7-1B4C-4530-9C6C-941D80FD2A60.png" group-title="Yerel Kanal",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Deniz Postası" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" group-title="Yerel Kanal",Deniz Postası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Ekonomik TV" group-title="Sinema-Dizi",Ekonomik TV
+http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Movie Box Yerli" group-title="Sinema-Dizi",Movie Box Yerli
+https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="HTV Sinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",HTV Sinema
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="İsviçre TV" group-title="Sinema-Dizi",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Kanal Plus" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Yerel Kanal",Kanal Plus
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="KuzeyMAX TV" tvg-logo="https://i.hizliresim.com/94rhlni.PNG" group-title="Sinema-Dizi",KuzeyMAX TV
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Kanal19" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="Yerel Kanal",Kanal19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="LEBİH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="TV Müzik",LEBİH TV
+https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
