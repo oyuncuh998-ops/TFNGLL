@@ -171,3 +171,68 @@ https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-name="FX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="Sinema-Dizi",FX
 #EXTVLCOPT:network-caching=1000
 https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="Belgesel",Love Nature
+#EXTVLCOPT:network-caching=1000
+https://mss.ayakkabiparti.lol/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-id="moviesmartturk" tvg-name="MovieSmart Türk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/ZI/13863/Thumbnail.png" group-title="Sinema-Dizi",MovieSmart Türk
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/mvturk/index.m3u8
+
+#EXTINF:-1 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/22897/Thumbnail.png" group-title="Sinema-Dizi",Sinema Aile
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinemaaile/index.m3u8
+
+#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/tD/22896/Thumbnail.png" group-title="Sinema-Dizi",Sinema Aksiyon
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+
+#EXTINF:-1 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/9a/22899/Thumbnail.png" group-title="Sinema-Dizi",Sinema Komedi
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinemakomedi/index.m3u8
+
+#EXTINF:-1 tvg-id="sinematv" tvg-name="Sinema TV" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png" group-title="Sinema-Dizi",Sinema TV
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinema/index.m3u8
+
+#EXTINF:-1 tvg-id="maxaksiyon" tvg-name="Max Aksiyon" tvg-logo="https://dsmart-static-v2.ercdn.net/content/M/RG/22895/Thumbnail.png" group-title="Sinema-Dizi",Max Aksiyon
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+
+#EXTINF:-1 tvg-id="sinematv2" tvg-name="Sinema TV 2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/3N/22904/Thumbnail.png" group-title="Sinema-Dizi",Sinema TV 2
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinema2/index.m3u8
+
+#EXTINF:-1 tvg-id="maxturk" tvg-name="Max Türk" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838339.png" group-title="Sinema-Dizi",Max Türk
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinemayerli/index.m3u8
+
+#EXTINF:-1 tvg-id="sinema1001" tvg-name="Sinema 1001" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/6y/22901/Thumbnail.png" group-title="Sinema-Dizi",Sinema 1001
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinema1001/index.m3u8
+
+#EXTINF:-1 tvg-id="sinema1002" tvg-name="Sinema 1002" tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/XZ/22902/Thumbnail.png" group-title="Sinema-Dizi",Sinema 1002
+#EXTVLCOPT:network-caching=1000
+http://65.108.239.207/sinema1002/index.m3u8
+
+#EXTINF:-1 tvg-id="cine6premier" tvg-name="Cine6 Premier" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="Sinema-Dizi",Cine6 Premier
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV HD" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="Spor",FB TV HD
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Vizon Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Vizon Prime
+https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="Animasyon",Ates1
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="0.KIL-RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" tvg-id="Dummy" , 01.şömine
+https://cdn.tecostream.xyz/Somine_TV.m3u8
+
+#EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" tvg-id="Dummy",SuperTürk TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" tvg-id="https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" , 01.trt müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
