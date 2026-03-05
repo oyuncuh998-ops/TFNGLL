@@ -315,5 +315,102 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="TV B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",TV B
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.dsmart.jpg" group-title="Ulusal Kanal",TV8
-https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Vizon Turk" tvg-logo="https://thumbs01.cdn.web.tv/zb/nc/zbnckvtgivs_140x79.jpg" group-title="Sinema-Dizi",Vizon Turk
+https://novamax.cinemax6.com:3760/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Yansıma Sinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Yansıma Sinema
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Mega Box Yeşilçam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Mega Box Yeşilçam
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="SL Yeşilçam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",SL Yeşilçam
+http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="A Spor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="Spor",A Spor HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Alvin Channel" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Çocuk Kanal",Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr:80/alvinchannel/alvinchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Dizi Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="Sinema-Dizi",Dizi Film
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Dream Türk" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="TV Müzik",Dream Türk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Ulusal Kanal",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/1280px-Show_MAX_logo.svg.png" group-title="Ulusal Kanal",SHOW Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="Spor",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUZ3R1h4cG5kZ0hoQnRpN3UyVDJuaC8wOFZ5ZVFRb0lCMDZQSDQ0NjBTQT0=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="TV Müzik",KRALPOP
+http://dygvideo.dygdigital.com/live/hls/kralpop.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Spor",TAY TV
+http://78.128.125.60:9981/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="https://tjktv-live.tjk.org/tjktv_1080p.m3u8" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="Spor",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="Spor",TJK TV 1
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="Animasyon",Ates3
+http://185.57.68.33/232/mpegts
+
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal Kanal",TV 8
+http://tv.dsmart-go.workers.dev/?ID=https://www.tv8.com.tr/canli-yayin
+
+#EXTINF:-1 tvg-id="TV8 INT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Ulusal Kanal",TV8 INT
+http://162.212.179.33:80/gin-dvrfl05/gin-tv8int/tracks-v1a1/rewind-128880.m3u8
+
+#EXTINF:-1 tvg-id="TV8.5.tr" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Ulusal Kanal",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Ulusal Kanal",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="TV Müzik",EZGİ TV
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="TV Müzik",KN Müzik TV
+https://cdn4.yayin.com.tr/kntv/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="TV Müzik",KTV Müzik
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mahnitv.az/images/logo.png" group-title="TV Müzik",MAHNI TV
+http://xantv.site:41480/MahniTV/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg" group-title="TV Müzik",Music Azerbaijan HD
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/595.jpg" group-title="TV Müzik",Music Azerbaijan Hits
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/590.jpg" group-title="TV Müzik",Music Azerbaijan Plus
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="TV Müzik",Slow Karadeniz
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo.png" group-title="TV Müzik",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TRTSPOR.tr" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Spor",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSPORYILDIZ.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936198.png" group-title="Spor",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="YansimaMuzikTV.tr" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310519663101870451/PeLnPBFnefNKNRHU.png" group-title="TV Müzik",Yansıma Müzik TV
+https://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
+
