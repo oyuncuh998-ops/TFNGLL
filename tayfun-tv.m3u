@@ -164,7 +164,7 @@ http://65.108.239.207/box2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://65.108.239.207/box3/index.m3u8
 
-#EXTINF:-1 tvg-id="docubox" tvg-name="Docubox" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="Belgesel",Docubox
+#EXTINF:-1 tvg-id="docubox" tvg-name="Docubox" group-title="BELGESEL",Docubox
 #EXTVLCOPT:network-caching=1000
 https://mss.ayakkabiparti.lol/docubox/index.m3u8
 
@@ -172,7 +172,7 @@ https://mss.ayakkabiparti.lol/docubox/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://saran-live.ercdn.net/fx/index.m3u8
 
-#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="Belgesel",Love Nature
+#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature" group-title="BELGESEL",Love Nature
 #EXTVLCOPT:network-caching=1000
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
 
@@ -228,11 +228,11 @@ https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Ates1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="Animasyon",Ates1
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="0.KIL-RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" tvg-id="Dummy" , 01.şömine
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Ates2" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="Animasyon",Ates2
 https://cdn.tecostream.xyz/Somine_TV.m3u8
 
 #EXTINF:-1 group-title="Sinema-Dizi" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" tvg-id="Dummy",SuperTürk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
-#EXTINF:-1 group-title="0.KIL-MÜZİK" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" tvg-id="https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" , 01.trt müzik
+#EXTINF:-1 group-title="TV Müzik" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" tvg-id="TRT Muzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
